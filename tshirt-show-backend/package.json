@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start":"nodemon index"
+    "start":"nodemon index.js"
   },
   "dependencies": {
     "cloudinary": "^1.37.0",

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.14",
-    "@react-three/drei": "^9.65.3",
+    "@react-three/drei": "^9.40.7",
     "@react-three/fiber": "^8.12.1",
     "@types/jest": "^29.5.0",
     "@types/node": "^18.15.11",
